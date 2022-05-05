@@ -2,4 +2,5 @@
 
 Olá! Bem vindo ao meu livro de receitas.
 
-- Strogonoof de Franfo :chicken:
+- Strogonoof de Frango :chicken:
+- Pavê
